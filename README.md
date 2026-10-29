@@ -43,6 +43,7 @@ Please open a pull request
 | BaseAI (from Langbase) - Memory | https://langbase.com/docs/memory        | Managed, Open source | https://github.com/LangbaseInc/baseai           | Memory Tool     | Vector        |
 | BondAI                        | https://bondai.dev/docs/agent-memory/    | Open source        | https://github.com/krohling/bondai              | Memory Tool     | Vector        |
 | MemGPT (from Letta)           | https://memgpt.ai/                       | Managed, Open source | https://github.com/cpacker/MemGPT               | Memory Tool     | Graph, Vector |
+| MemVault                      | https://github.com/dreamor/memvault      | Open source        | https://github.com/dreamor/memvault             | Memory Tool     | Vector        |
 | Statewave                     | https://statewave.dev/                   | Open source          | https://github.com/statewave-ai/statewave     | Memory Tool     | Graph, Vector |
 | GraphRAG (from Microsoft)     | https://microsoft.github.io/graphrag/    | Open source        | https://github.com/microsoft/graphrag           | Memory Tool     | Graph, Vector |
 | Llama index                   | https://www.llamaindex.ai/               | Managed, Open source | https://github.com/run-llama/llama_index        | LLM Framework   | Graph, Vector |
@@ -133,6 +134,7 @@ Implementations differ mainly in how they store and retrieve this memory: **vect
 | BaseAI (from Langbase) - Memory | Memory module of Langbase's open-source BaseAI framework for serverless AI agents | https://langbase.com/docs/memory | Managed, Open source | https://github.com/LangbaseInc/baseai | Memory Tool | Vector |
 | BondAI | Open-source AI agent framework with built-in vector memory | https://bondai.dev/docs/agent-memory/ | Open source | https://github.com/krohling/bondai | Memory Tool | Vector |
 | MemGPT (from Letta) | LLM "operating system" that manages memory beyond the context window | https://memgpt.ai/ | Managed, Open source | https://github.com/cpacker/MemGPT | Memory Tool | Graph, Vector |
+| MemVault | Local-first memory shared across AI agents: session-start recall, review inbox, dedup/decay and an MCP server | https://github.com/dreamor/memvault | Open source | https://github.com/dreamor/memvault | Memory Tool | Vector |
 | GraphRAG (from Microsoft) | Graph-based RAG over knowledge graphs extracted by an LLM | https://microsoft.github.io/graphrag/ | Open source | https://github.com/microsoft/graphrag | Memory Tool | Graph, Vector |
 | Prometheus | Open-source monitoring system and time-series database | https://prometheus.io/ | Open source | https://github.com/prometheus | Memory Tool | Graph |
 | HybridAGI | Programmable neuro-symbolic agent framework with graph-based memory | https://synalinks.github.io/documentation/ | Open source | https://github.com/SynaLinks/HybridAGI | Memory Tool | Graph, Vector |
